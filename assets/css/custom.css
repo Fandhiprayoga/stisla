@@ -6,3 +6,82 @@
  */
 
 /*# sourceMappingURL=custom.css.map */
+
+.navbar-bg {
+    background-color: transparent !important;
+}
+
+nav > form > ul > li:nth-child(1) > a > i {
+    color: #2a2a2a;
+}
+
+nav > ul > li:nth-child(1) > a > i {
+    color: #2a2a2a;
+}
+
+nav > ul > li:nth-child(2) > a > i {
+    color: #2a2a2a;
+}
+
+nav > ul > li:nth-child(3) > a > div {
+    color: #2a2a2a;
+}
+
+.sidebar-brand > a{
+    /* background-color: #00784e; */
+    color: #ffffff !important;
+}
+
+.sidebar-brand .sidebar-brand-sm > a {
+    color: #ffffff !important;
+}
+
+.main-sidebar {
+    background-color: #00784e ;
+}
+
+body.sidebar-mini > div > div > div.main-sidebar:after {
+    background-color: #00784e !important;
+}
+
+body.sidebar-mini > div > div > div.main-sidebar > aside > .sidebar-menu  > .nav-item.dropdown > .dropdown-menu >li > a.nav-link {
+    color: #2a2a2a !important;
+}
+body.sidebar-mini > div > div > div.main-sidebar > aside > .sidebar-menu  > .nav-item.dropdown > .dropdown-menu >li > a.nav-link:hover {
+    font-weight: bold !important;
+}
+
+body.sidebar-mini > div > div > div.main-sidebar > aside > .sidebar-menu  > .nav-item.dropdown > .dropdown-menu > li.active > a.nav-link {
+    color: #ffffff !important;
+}
+
+.main-sidebar li.active a{
+    background-color: #ffffff !important;
+    color: #00784e !important;
+}
+
+.menu-header {
+    color: #ffffff !important;
+}
+
+.nav-link {
+    color: #ffffff !important;
+}
+
+li a.nav-link:hover{
+    background-color: #ffffff !important;   
+    color: #00784e !important;
+}
+
+.nav-link.has-dropdown:hover {
+        color: #00784e !important;
+}
+
+.nav-item.dropdown.active:hover{
+        background-color: #ffffff !important;   
+}
+
+.dropdown-menu li.active a.nav-link{
+    font-weight: bold !important;
+}
+
